@@ -1,0 +1,13 @@
+[book]
+authors = ["Stephan Kunz"]
+description = "A comprehensive guide how to use DiMAS"
+language = "en"
+multilingual = false
+src = "src"
+title = "Programming distributed Agents"
+
+[rust]
+edition = "2021"
+
+[output.html]
+site-url = "/book/"
