@@ -1,6 +1,6 @@
 [book]
 authors = ["Stephan Kunz"]
-description = "A comprehensive guide how to use DiMAS"
+description = "A comprehensive guide to DiMAS"
 language = "en"
 multilingual = false
 src = "src"
